@@ -10,13 +10,13 @@ We'll be using the Python programming language and the Discord.py library. This 
 # Here is an example code: disty.py
 
 
-This code sets up the bot and adds three commands: !ping, !kick, and !ban. The !ping command simply responds with "Pong!" when called. The !kick and !ban commands kick or ban the specified user, respectively, and send a message confirming the action.
+This code sets up the bot and adds three commands: `!ping`, `!kick`, and `!ban`. The `!ping` command simply responds with "Pong!" when called. The `!kick` and `!ban` commands kick or ban the specified user, respectively, and send a message confirming the action.
 
-The on_message event is also used to monitor the chat for rule violations. In this example, if a message starts with !rules, the bot responds with a reminder to follow the rules.
+The `on_message` event is also used to monitor the chat for rule violations. In this example, if a message starts with `!rules`, the bot responds with a reminder to follow the rules.
 
-Note that the has_permissions decorator is used to restrict the !kick and !ban commands to users who have the necessary permissions. You can modify this to suit your specific needs.
+Note that the `has_permissions` decorator is used to restrict the `!kick` and `!ban` commands to users who have the necessary permissions. You can modify this to suit your specific needs.
 
-Before running the bot, you'll need to replace TOKEN with your bot's token, which you can obtain from the Discord Developer Portal. You'll also need to add your bot to a server to test it out.
+Before running the bot, you'll need to replace TOKEN with your bot's `token`, which you can obtain from the Discord Developer Portal. You'll also need to add your bot to a server to test it out.
 
 I hope this helps! Let me know if you have any questions.
 
