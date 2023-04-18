@@ -7,7 +7,7 @@ We'll be using the Python programming language and the Discord.py library. This 
 *Warn users about their behavior
 *Ban or kick users who violate the rules
 
-Here is an example code:
+Here is an example code: disty.py
 
 
 This code sets up the bot and adds three commands: !ping, !kick, and !ban. The !ping command simply responds with "Pong!" when called. The !kick and !ban commands kick or ban the specified user, respectively, and send a message confirming the action.
