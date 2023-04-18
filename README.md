@@ -2,10 +2,10 @@
 
 We'll be using the Python programming language and the Discord.py library. This bot will be able to:
 
-*Respond to commands from users
-*Monitor the chat for rule violations
-*Warn users about their behavior
-*Ban or kick users who violate the rules
+* Respond to commands from users
+* Monitor the chat for rule violations
+* Warn users about their behavior
+* Ban or kick users who violate the rules
 
 Here is an example code: disty.py
 
