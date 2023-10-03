@@ -2,7 +2,7 @@
 
 ![acastro_210129_1777_discord_0001](https://user-images.githubusercontent.com/128980327/232897633-92ca2eaa-42e3-4b1b-8378-eb8487806f67.jpg)
 
-We'll be using the Python programming language and the Discord.py library. This bot will be able to:
+We'll be using the Python programming language and the Discord.py library. This bot will be able to: еіввпсрпрп
 
 * Respond to commands from users
 * Monitor the chat for rule violations
