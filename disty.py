@@ -1,5 +1,5 @@
 import discord
-from discord.ext import commands вооаввоопопопопоашш
+from discord.ext import commands 
 
 bot = commands.Bot(command_prefix='!') # Set the command prefix to "!"
 
