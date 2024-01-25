@@ -1,4 +1,4 @@
-# Moderator-Bot осгсвеінк
+# Moderator-Bot осгсвеінкщаа9а
 
 ![acastro_210129_1777_discord_0001](https://user-images.githubusercontent.com/128980327/232897633-92ca2eaa-42e3-4b1b-8378-eb8487806f67.jpg)
 
