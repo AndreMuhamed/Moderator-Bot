@@ -9,6 +9,8 @@
   <a href="https://github.com/AndreMuhamed/Muhamed_OneDrive/blob/main/README_Polish.md" target="_blank"><img src="https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Language/298479_poland_poland.png?raw=true" alt="pl" width="25" height="25"></a>
 </div>
 
+![Muhamed](https://github.com/AndreMuhamed/Muhamed_Pro-Suite/blob/main/Plug-photo/%D0%A8%D0%B0%D0%B1%D0%BA%D0%B0%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0copyUA.jpg?raw=true)
+
 ## Опис
 
 **Moderator-Bot** — це бот для Discord, створений за допомогою мови програмування Python та бібліотеки Discord.py. Він має функціонал для модерації серверів та покращення взаємодії між учасниками.
